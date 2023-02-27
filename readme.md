@@ -1,6 +1,6 @@
 # Project 3
 
-## Summary
+## Summary of the project
 The project is a command-line program that reads in a file of grocery items and their frequencies, and allows the user to search for a specific item, print a frequency list, or print a histogram of the frequencies using asterisks.
 
 The program reads in the input file, constructs a vector of Grocery objects, and performs various operations on that vector based on user input. The program solves the problem of analyzing and visualizing data from a grocery list.
